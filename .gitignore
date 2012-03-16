@@ -1,0 +1,7 @@
+build
+build/
+*.pbxuser
+*.mode1v3
+*.app
+frame_*.pcd
+20*_bun0-mls.pcd
