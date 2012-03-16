@@ -1,4 +1,5 @@
 Used to help create a closed shape from a set of unordered points using Graham's Scan
+http://en.wikipedia.org/wiki/Graham_scan
 
 Sample Image:
 http://i.imgur.com/uDT6x.png
