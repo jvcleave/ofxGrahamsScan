@@ -1,0 +1,17 @@
+Used to help create a closed shape from a set of unordered points using Graham's Scan
+
+Sample Image:
+http://i.imgur.com/uDT6x.png
+
+Derived from
+http://www.chrisharrison.net/projects/convexHull/index.html
+
+Thanks Chris!
+
+Requires:
+openFrameworks 007
+
+Tested:
+Xcode 3.2.6
+Mac 10.6.8
+
